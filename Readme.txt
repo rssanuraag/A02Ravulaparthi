@@ -1,0 +1,1 @@
+this website is for calculating murphee efficency of a distillation column with n trays weather liquid phase or vapour phase.
